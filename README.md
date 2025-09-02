@@ -41,4 +41,3 @@
 4. 点击“Submit new issue”按钮提交你的问题。
 
 项目维护者和其他贡献者会在Issues中查看并回应你的问题。你也可以通过相同的Issues参与到问题的讨论中。
-[![114514](https://img.shields.io/badge/Cao%20Ni%20Ma.svg)](https://1.0yl.cc)
