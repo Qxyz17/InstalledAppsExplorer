@@ -35,7 +35,7 @@
 
 如果你在使用 `InstalledAppsExplorer` 程序时遇到任何问题，可以通过以下步骤在GitHub上提出：
 
-1. 访问项目的[GitHub Issues](https://github.com/Qxyz17/InstalledAppsExplorer/Issues)。
+1. 访问项目的[GitHub Issues](https://github.com/Qxyz17/InstalledAppsExplorer/issues)。
 2. 点击“New issue”按钮。
 3. 按照提示填写问题的详细信息，包括问题的描述、你采取的步骤、预期的结果和实际的结果等。
 4. 点击“Submit new issue”按钮提交你的问题。
