@@ -35,8 +35,8 @@ jobs:
         echo "Add your test script here to verify the build."
 
     - name: Upload build artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@latest
       with:
         name: InstalledAppsExplorer
         path: ./dist/
-        if-no-files-found: error  # 如果没有文件被找到则报错
+        if-no-files-found: error
